@@ -10,7 +10,7 @@ This Spring Boot application facilitates the management of product sales, offeri
 - Track remaining stock levels
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/sales-erp-product.git`
+1. Clone the repository: `git clone https://github.com/MuhammedBasith/sales-erp-product.git`
 2. Navigate to the project directory: `cd sales-erp-product`
 3. Build the project: `./mvnw clean install`
 4. Run the application: `./mvnw spring-boot:run`
